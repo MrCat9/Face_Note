@@ -28,6 +28,18 @@ TensorFlow--实现人脸识别实验精讲 https://blog.csdn.net/niutianzhuang/a
 
 https://github.com/deepinsight/insightface
 
+人脸识别之insightface开源代码使用 https://blog.csdn.net/hanjiangxue_wei/article/details/86566185
+
+人脸识别系列（十七）：ArcFace/Insight Face https://blog.csdn.net/Fire_Light_/article/details/79602705
+
+论文阅读之Arcface https://blog.csdn.net/Wuzebiao2016/article/details/81839452
+
+Insightface/Arcface项目实践流程 https://blog.csdn.net/Wuzebiao2016/article/details/81868443
+
+基于MTCNN与insightface的人脸打卡系统 https://blog.csdn.net/Rrui7739/article/details/89175835
+
+insightFace工程实践 https://www.bilibili.com/video/av60181354/
+
 #### 4_人脸登录
 
 tensorflow实现人脸识别登录系统 https://blog.csdn.net/zhonglongshen/article/details/89185506
