@@ -22,11 +22,7 @@ facenet 人脸识别（一） https://www.cnblogs.com/gmhappy/p/9472388.html
 
 TensorFlow--实现人脸识别实验精讲 https://blog.csdn.net/niutianzhuang/article/details/79191167
 
-```
-比较人脸识别OpenFace、Face-recognition、Insightface
-FaceNet源码运行
-```
-https://blog.csdn.net/Taily_Duan/article/details/86496065
+人脸识别OpenFace、Face-recognition、Insightface的比较和FaceNet源码运行 https://blog.csdn.net/Taily_Duan/article/details/86496065
 
 #### 3_insightface
 
