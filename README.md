@@ -40,7 +40,9 @@ Insightface/Arcface项目实践流程 https://blog.csdn.net/Wuzebiao2016/article
 
 insightFace工程实践 https://www.bilibili.com/video/av60181354/
 
-#### 4_人脸登录
+#### 4_人脸项目
 
 tensorflow实现人脸识别登录系统 https://blog.csdn.net/zhonglongshen/article/details/89185506
+
+基于人脸识别技术的走失儿童找寻系统 https://github.com/wen-fei/AngelEyes
 
