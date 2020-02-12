@@ -10,6 +10,8 @@ https://www.bilibili.com/video/av53487827/
 
 #### 2_facenet
 
+https://github.com/davidsandberg/facenet
+
 Facenet原理介绍 https://blog.csdn.net/lq126126/article/details/80776105
 
 FaceNet介绍 https://www.cnblogs.com/lijie-blog/p/10168073.html
