@@ -30,6 +30,8 @@ TensorFlow--实现人脸识别实验精讲 https://blog.csdn.net/niutianzhuang/a
 
 https://github.com/deepinsight/insightface
 
+邓健康-CVPR2019 ArcFace构建高效人脸识别系统 https://www.bilibili.com/video/av54356295?from=search&seid=15463299013885200379
+
 人脸识别之insightface开源代码使用 https://blog.csdn.net/hanjiangxue_wei/article/details/86566185
 
 人脸识别系列（十七）：ArcFace/Insight Face https://blog.csdn.net/Fire_Light_/article/details/79602705
