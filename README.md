@@ -50,3 +50,6 @@ tensorflow实现人脸识别登录系统 https://blog.csdn.net/zhonglongshen/art
 
 基于人脸识别技术的走失儿童找寻系统 https://github.com/wen-fei/AngelEyes
 
+#### 5_人脸相关数据集
+
+https://www.cnblogs.com/haiyang21/p/11208293.html
