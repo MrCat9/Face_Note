@@ -53,3 +53,16 @@ tensorflow实现人脸识别登录系统 https://blog.csdn.net/zhonglongshen/art
 #### 5_人脸相关数据集
 
 https://www.cnblogs.com/haiyang21/p/11208293.html
+
+#### 6_face_recognition
+
+https://github.com/ageitgey/face_recognition
+
+```
+人脸检测  人脸识别
+
+安装：
+1. 先安装dlib
+2. pip install face_recognition
+```
+
